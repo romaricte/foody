@@ -41,8 +41,8 @@ class MyApp extends StatelessWidget {
           navigatorKey: NavigationService.navigatorKey,
           initialRoute: "/home",
           getPages: getPageRoute(),
-          builder: (_, child) {
-            NavigationService.registerContext(_);
+          builder: (context, child) {
+            NavigationService.registerContext(context);
             return Directionality(
                 textDirection: AppTheme.textDirection,
                 child: child ?? Container());

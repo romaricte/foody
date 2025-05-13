@@ -480,9 +480,9 @@ class _MenuWidgetState extends State<MenuWidget>
       return CustomPopupMenu(
         backdrop: true,
         show: popupShowing,
-        hideFn: (_) => hideFn = _,
-        onChange: (_) {
-          popupShowing = _;
+        hideFn: (value) => hideFn = value,
+        onChange: (value) {
+          popupShowing = value;
         },
         placement: CustomPopupMenuPlacement.right,
         menu: MouseRegion(
@@ -550,9 +550,9 @@ class _MenuWidgetState extends State<MenuWidget>
                 tilePadding: MySpacing.zero,
                 initiallyExpanded: isActive,
                 maintainState: true,
-                onExpansionChanged: (_) {
+                onExpansionChanged: (value) {
                   LeftbarObserver.notifyAll(widget.title);
-                  onChangeExpansion(_);
+                  onChangeExpansion(value);
                 },
                 trailing: RotationTransition(
                   turns: _iconTurns,
