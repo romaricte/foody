@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/localizations/language.dart';
-import 'package:foody/helpers/theme/app_notifire.dart';
+import 'package:myfoody/helpers/localizations/language.dart';
+import 'package:myfoody/helpers/theme/app_notifire.dart';
 import 'package:provider/provider.dart';
 
 class AppLocalizationsDelegate extends LocalizationsDelegate {

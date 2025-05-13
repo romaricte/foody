@@ -1,5 +1,5 @@
 
-import 'package:foody/model/user.dart';
+import 'package:myfoody/model/user.dart';
 
 import '../storage/local_storage.dart';
 

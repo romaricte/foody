@@ -2,12 +2,12 @@ import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/theme/admin_theme.dart';
-import 'package:foody/helpers/theme/theme_customizer.dart';
-import 'package:foody/helpers/widgets/my.dart';
-import 'package:foody/helpers/widgets/my_breadcrumb_item.dart';
-import 'package:foody/helpers/widgets/my_constant.dart';
-import 'package:foody/helpers/widgets/my_text_style.dart';
+import 'package:myfoody/helpers/theme/admin_theme.dart';
+import 'package:myfoody/helpers/theme/theme_customizer.dart';
+import 'package:myfoody/helpers/widgets/my.dart';
+import 'package:myfoody/helpers/widgets/my_breadcrumb_item.dart';
+import 'package:myfoody/helpers/widgets/my_constant.dart';
+import 'package:myfoody/helpers/widgets/my_text_style.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class MaterialRadius {

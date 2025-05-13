@@ -10,15 +10,31 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
 
   cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  provider: ^6.1.5
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.5.3
+  url_launcher: ^6.3.1
+  url_strategy: ^0.3.0
+  google_maps_flutter: ^2.12.1
+  lucide_icons: ^0.257.0
+  flutter_blurhash: ^0.9.1
+  syncfusion_flutter_charts: ^29.1.41
+  flutter_scroll_to_top: ^2.3.0
+  file_picker: ^10.1.9
+  timelines: ^0.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-.
-  flutter_lints: ^5.0.0
+
+flutter_lints: ^5.0.0
 
 
 flutter:

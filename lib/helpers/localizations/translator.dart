@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:developer';
 
 import 'package:flutter/services.dart';
-import 'package:foody/helpers/localizations/language.dart';
+import 'package:myfoody/helpers/localizations/language.dart';
 import 'package:get/get_utils/get_utils.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

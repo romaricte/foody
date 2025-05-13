@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/localizations/translator.dart';
+import 'package:myfoody/helpers/localizations/translator.dart';
 
 extension StringUtil on String {
   Color get toColor {

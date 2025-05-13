@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/theme/theme_customizer.dart';
+import 'package:myfoody/helpers/theme/theme_customizer.dart';
 
 enum LeftBarThemeType { light, dark }
 

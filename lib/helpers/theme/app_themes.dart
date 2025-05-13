@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/theme/theme_type.dart';
+import 'package:myfoody/helpers/theme/theme_type.dart';
 
 ThemeData get theme => AppTheme.theme;
 class AppTheme {

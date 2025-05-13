@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/localizations/language.dart';
-import 'package:foody/helpers/storage/local_storage.dart';
-import 'package:foody/helpers/theme/app_style.dart';
-import 'package:foody/helpers/theme/theme_customizer.dart';
-import 'package:foody/helpers/widgets/my.dart';
+import 'package:myfoody/helpers/localizations/language.dart';
+import 'package:myfoody/helpers/storage/local_storage.dart';
+import 'package:myfoody/helpers/theme/app_style.dart';
+import 'package:myfoody/helpers/theme/theme_customizer.dart';
+import 'package:myfoody/helpers/widgets/my.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class AppNotifier extends ChangeNotifier {
