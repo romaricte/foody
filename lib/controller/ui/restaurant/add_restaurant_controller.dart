@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/views/my_controller.dart';
 
 class AddRestaurantController extends MyController {
   int fullWidthIndex = 0;

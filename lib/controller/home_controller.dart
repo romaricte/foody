@@ -1,4 +1,4 @@
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/views/my_controller.dart';
 
 class HomeController extends MyController {
   int selectTime = 1;

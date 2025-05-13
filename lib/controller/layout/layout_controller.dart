@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/theme/theme_customizer.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/helpers/theme/theme_customizer.dart';
+import 'package:myfoody/views/my_controller.dart';
 
 class LayoutController extends MyController {
   ThemeCustomizer themeCustomizer = ThemeCustomizer();

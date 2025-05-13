@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foody/controller/ui/customer/add_customer_controller.dart';
-import 'package:foody/helpers/utils/ui_mixins.dart';
-import 'package:foody/helpers/widgets/my_breadcrumb.dart';
-import 'package:foody/helpers/widgets/my_breadcrumb_item.dart';
-import 'package:foody/helpers/widgets/my_container.dart';
+import 'package:myfoody/controller/ui/customer/add_customer_controller.dart';
+import 'package:myfoody/helpers/utils/ui_mixins.dart';
+import 'package:myfoody/helpers/widgets/my_breadcrumb.dart';
+import 'package:myfoody/helpers/widgets/my_breadcrumb_item.dart';
+import 'package:myfoody/helpers/widgets/my_container.dart';
 import 'package:foody/helpers/widgets/my_flex.dart';
 import 'package:foody/helpers/widgets/my_flex_item.dart';
 import 'package:foody/helpers/widgets/my_spacing.dart';

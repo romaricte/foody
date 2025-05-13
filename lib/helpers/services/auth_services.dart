@@ -20,6 +20,6 @@ class AuthService {
 
     isLoggedIn = true;
     await LocalStorage.setLoggedInUser(true);
-    retu;
+    return null;
   }
 }

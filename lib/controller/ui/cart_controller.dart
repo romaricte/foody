@@ -1,5 +1,5 @@
-import 'package:foody/model/cart_model.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/model/cart_model.dart';
+import 'package:myfoody/views/my_controller.dart';
 import 'package:get/get.dart';
 
 class CartController extends MyController {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foody/model/order_list.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/model/order_list.dart';
+import 'package:myfoody/views/my_controller.dart';
 
-import 'package:foody/views/ui/order_screen.dart';
+import 'package:myfoody/views/ui/order_screen.dart';
 
 class OrderController extends MyController {
   List<OrderList> orderList = [];

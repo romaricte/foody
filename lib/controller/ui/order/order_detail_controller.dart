@@ -1,6 +1,6 @@
-import 'package:foody/helpers/widgets/my_text_utils.dart';
-import 'package:foody/model/order_detail.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/helpers/widgets/my_text_utils.dart';
+import 'package:myfoody/model/order_detail.dart';
+import 'package:myfoody/views/my_controller.dart';
 
 class OrderDetailController extends MyController {
   List<OrderDetail> ordersDetail = [];

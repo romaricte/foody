@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/utils/generator.dart';
-import 'package:foody/model/chat_model.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/helpers/utils/generator.dart';
+import 'package:myfoody/model/chat_model.dart';
+import 'package:myfoody/views/my_controller.dart';
 
 class ChatController extends MyController {
   ScrollController? scrollController;

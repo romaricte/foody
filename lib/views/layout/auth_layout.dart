@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:foody/controller/layout/auth_layout_controller.dart';
-import 'package:foody/helpers/theme/admin_theme.dart';
-import 'package:foody/helpers/theme/app_themes.dart';
-import 'package:foody/helpers/widgets/my_container.dart';
-import 'package:foody/helpers/widgets/my_flex.dart';
-import 'package:foody/helpers/widgets/my_flex_item.dart';
-import 'package:foody/helpers/widgets/my_responsiv.dart';
-import 'package:foody/helpers/widgets/my_spacing.dart';
-import 'package:foody/images.dart';
+import 'package:myfoody/controller/layout/auth_layout_controller.dart';
+import 'package:myfoody/helpers/theme/admin_theme.dart';
+import 'package:myfoody/helpers/theme/app_themes.dart';
+import 'package:myfoody/helpers/widgets/my_container.dart';
+import 'package:myfoody/helpers/widgets/my_flex.dart';
+import 'package:myfoody/helpers/widgets/my_flex_item.dart';
+import 'package:myfoody/helpers/widgets/my_responsiv.dart';
+import 'package:myfoody/helpers/widgets/my_spacing.dart';
+import 'package:myfoody/images.dart';
 import 'package:get/get.dart';
 
 class AuthLayout extends StatelessWidget {

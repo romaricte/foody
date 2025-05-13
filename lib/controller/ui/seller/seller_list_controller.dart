@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foody/model/customer_list.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/model/customer_list.dart';
+import 'package:myfoody/views/my_controller.dart';
 
-import 'package:foody/views/ui/seller/seller_list_screen.dart';
+import 'package:myfoody/views/ui/seller/seller_list_screen.dart';
 import 'package:get/get.dart';
 
 class SellerListController extends MyController {

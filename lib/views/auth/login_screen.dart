@@ -1,19 +1,19 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:foody/controller/auth/login_controller.dart';
-import 'package:foody/helpers/theme/app_themes.dart';
-import 'package:foody/helpers/utils/ui_mixins.dart';
-import 'package:foody/helpers/widgets/my_button.dart';
-import 'package:foody/helpers/widgets/my_flex.dart';
-import 'package:foody/helpers/widgets/my_flex_item.dart';
-import 'package:foody/helpers/widgets/my_responsiv.dart';
-import 'package:foody/helpers/widgets/my_screen_media_type.dart';
-import 'package:foody/helpers/widgets/my_spacing.dart';
-import 'package:foody/helpers/widgets/my_text.dart';
-import 'package:foody/helpers/widgets/my_text_style.dart';
-import 'package:foody/images.dart';
-import 'package:foody/views/layout/auth_layout.dart';
+import 'package:myfoody/controller/auth/login_controller.dart';
+import 'package:myfoody/helpers/theme/app_themes.dart';
+import 'package:myfoody/helpers/utils/ui_mixins.dart';
+import 'package:myfoody/helpers/widgets/my_button.dart';
+import 'package:myfoody/helpers/widgets/my_flex.dart';
+import 'package:myfoody/helpers/widgets/my_flex_item.dart';
+import 'package:myfoody/helpers/widgets/my_responsiv.dart';
+import 'package:myfoody/helpers/widgets/my_screen_media_type.dart';
+import 'package:myfoody/helpers/widgets/my_spacing.dart';
+import 'package:myfoody/helpers/widgets/my_text.dart';
+import 'package:myfoody/helpers/widgets/my_text_style.dart';
+import 'package:myfoody/images.dart';
+import 'package:myfoody/views/layout/auth_layout.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

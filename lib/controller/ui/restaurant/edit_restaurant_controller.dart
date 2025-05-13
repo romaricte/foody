@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foody/helpers/widgets/my_form_validator.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/helpers/widgets/my_form_validator.dart';
+import 'package:myfoody/views/my_controller.dart';
 
 class EditRestaurantController extends MyController {
   MyFormValidator basicValidator = MyFormValidator();

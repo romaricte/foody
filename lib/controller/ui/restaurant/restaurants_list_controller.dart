@@ -1,5 +1,5 @@
-import 'package:foody/model/restaurant_data.dart';
-import 'package:foody/views/my_controller.dart';
+import 'package:myfoody/model/restaurant_data.dart';
+import 'package:myfoody/views/my_controller.dart';
 import 'package:get/get.dart';
 
 class RestaurantsListController extends MyController {
