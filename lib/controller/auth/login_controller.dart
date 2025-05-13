@@ -10,7 +10,7 @@ class LoginController extends MyController {
 
   bool showPassword = false, loading = false, isChecked = false;
 
-  final String _dummyEmail = "foody@getappui.com";
+  final String _dummyEmail = "romaric@romadev.com";
   final String _dummyPassword = "1234567";
 
   var greeting = "Good Morning";
