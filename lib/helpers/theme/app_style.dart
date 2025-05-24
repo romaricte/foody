@@ -58,7 +58,7 @@ class AppTheme {
         actionsIconTheme: IconThemeData(color: Color(0xff495057))),
 
     /// Card Theme
-    cardTheme: CardTheme(color: Color(0xffffffff)),
+    // cardTheme: CardTheme(color: Color(0xffffffff)),
     cardColor: Color(0xffffffff),
 
     /// Colorscheme
@@ -89,14 +89,14 @@ class AppTheme {
         BottomAppBarTheme(color: Color(0xffeeeeee), elevation: 2),
 
     /// Tab bar Theme
-    tabBarTheme: TabBarTheme(
-      unselectedLabelColor: Color(0xff495057),
-      labelColor: AppTheme.primaryColor,
-      indicatorSize: TabBarIndicatorSize.label,
-      indicator: UnderlineTabIndicator(
-        borderSide: BorderSide(color: AppTheme.primaryColor, width: 2.0),
-      ),
-    ),
+    // tabBarTheme: TabBarTheme(
+    //   unselectedLabelColor: Color(0xff495057),
+    //   labelColor: AppTheme.primaryColor,
+    //   indicatorSize: TabBarIndicatorSize.label,
+    //   indicator: UnderlineTabIndicator(
+    //     borderSide: BorderSide(color: AppTheme.primaryColor, width: 2.0),
+    //   ),
+    // ),
 
     inputDecorationTheme: InputDecorationTheme(),
 
@@ -149,7 +149,7 @@ class AppTheme {
     appBarTheme: AppBarTheme(backgroundColor: Color(0xff262729)),
 
     /// Card Theme
-    cardTheme: CardTheme(color: Color(0xff1b1b1c)),
+    // cardTheme: CardTheme(color: Color(0xff1b1b1c)),
     cardColor: Color(0xff1b1b1c),
 
     /// Colorscheme
@@ -183,14 +183,14 @@ class AppTheme {
         BottomAppBarTheme(color: Color(0xff464c52), elevation: 2),
 
     /// Tab bar Theme
-    tabBarTheme: TabBarTheme(
-      unselectedLabelColor: Color(0xff495057),
-      labelColor: AppTheme.primaryColor,
-      indicatorSize: TabBarIndicatorSize.label,
-      indicator: UnderlineTabIndicator(
-        borderSide: BorderSide(color: AppTheme.primaryColor, width: 2.0),
-      ),
-    ),
+    // tabBarTheme: TabBarTheme(
+    //   unselectedLabelColor: Color(0xff495057),
+    //   labelColor: AppTheme.primaryColor,
+    //   indicatorSize: TabBarIndicatorSize.label,
+    //   indicator: UnderlineTabIndicator(
+    //     borderSide: BorderSide(color: AppTheme.primaryColor, width: 2.0),
+    //   ),
+    // ),
 
     /// Slider Theme
     sliderTheme: SliderThemeData(
