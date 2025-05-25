@@ -8,7 +8,7 @@ class UrlService {
 
 
   static goToPurchase(){
-    goToUrl('https://codecanyon.net/item/flatten-flutter-admin-panel/45285824');
+    // goToUrl('https://codecanyon.net/item/flatten-flutter-admin-panel/45285824');
   }
 
   static getCurrentUrl(){
